@@ -1,0 +1,27 @@
+Pulse Oximeter (MAX30100):
+VCC: Connect to 5V on Arduino Nano
+GND: Connect to GND on Arduino Nano
+SDA: Connect to A4 on Arduino Nano
+SCL: Connect to A5 on Arduino Nano
+
+GPS Module:
+RX: Connect to D9 on Arduino Nano (TX pin on GPS module)
+TX: Connect to D10 on Arduino Nano (RX pin on GPS module)
+VCC: Connect to 5V on Arduino Nano
+GND: Connect to GND on Arduino Nano
+
+SIM800L GSM Module:
+RX: Connect to D3 on Arduino Nano
+TX: Connect to D2 on Arduino Nano
+VCC: Connect to 5V on Arduino Nano
+GND: Connect to GND on Arduino Nano
+
+Switch:
+Connect one side to D5 on Arduino Nano
+Connect the other side to GND on Arduino Nano
+
+I2C LCD (LiquidCrystal_I2C):
+SDA: Connect to A4 on Arduino Nano
+SCL: Connect to A5 on Arduino Nano
+VCC: Connect to 5V on Arduino Nano
+GND: Connect to GND on Arduino Nano
